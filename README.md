@@ -45,7 +45,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nbnguyen75&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats" height="150" alt="streak graph"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+  <!-- <img src="https://streak-stats.demolab.com?user=nbnguyen75&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
   <img src="https://raw.githubusercontent.com/nbnguyen75/nbnguyen75/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
